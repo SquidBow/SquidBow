@@ -1,7 +1,7 @@
 ## Hello, I am SquidBow
 
 
-I enjoy coding btw... And also videogames. I am a first degree CS student in National University Of Kyiv-Mohyla Academy
+I enjoy coding btw... And also videogames. I am a second degree CS student in National University Of Kyiv-Mohyla Academy
 <!--
 **SquidBow/SquidBow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
